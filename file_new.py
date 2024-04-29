@@ -3,4 +3,6 @@ print("jhbae is cool")
 #woo woo woo
 =======
 #ha ha ha
+
+#diff arise
 >>>>>>> branch_new
